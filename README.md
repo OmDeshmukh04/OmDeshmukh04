@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmDeshmukh04
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning wordpress
+- 👀 I’m interested in Competative Programming
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
