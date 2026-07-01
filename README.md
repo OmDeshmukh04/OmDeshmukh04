@@ -17,6 +17,14 @@ I like building products where algorithms, APIs, data models, and user experienc
 - Practicing DSA and competitive programming in C++ and Java
 - Learning system design through projects with idempotency, scheduling, RBAC, audit logs, and integration boundaries
 
+## Sanitized FinOps Platform Work
+
+Branding and client identifiers are intentionally blurred. These previews show the kind of financial operations workflows I have worked on: reporting, reconciliation, provider operations, financial dashboards, and cash-flow visibility.
+
+| Access flow | Provider operations | Financial dashboard |
+| --- | --- | --- |
+| <img src="assets/finops-login-sanitized.png" alt="Sanitized financial operations login preview" width="100%" /> | <img src="assets/finops-provider-dashboard-sanitized.png" alt="Sanitized provider operations dashboard preview" width="100%" /> | <img src="assets/finops-financial-dashboard-sanitized.png" alt="Sanitized financial dashboard preview" width="100%" /> |
+
 ## Featured Projects
 
 ### MediBridge - Health Record Management System
@@ -77,4 +85,3 @@ Multi-provider reconciliation workflow for financial data processing, matching, 
 [LinkedIn](https://linkedin.com/in/om-deshmukh-298165236) |
 [Codeforces](https://codeforces.com/profile/omdeshmukh1906) |
 [LeetCode](https://leetcode.com/u/ExpertD19)
-
