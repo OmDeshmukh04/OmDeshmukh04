@@ -1,0 +1,32 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F2F3D"/>
+      <stop offset="0.55" stop-color="#173F5F"/>
+      <stop offset="1" stop-color="#176B63"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFCB66"/>
+      <stop offset="1" stop-color="#37B6A5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <path d="M900 62C1023 18 1164 54 1248 138V360H756C770 234 811 94 900 62Z" fill="#FFFFFF" opacity="0.08"/>
+  <path d="M88 284H1192" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="2"/>
+  <rect x="88" y="64" width="74" height="74" rx="18" fill="url(#accent)"/>
+  <path d="M116 96H134C141 96 146 101 146 108V126C146 133 141 138 134 138H116C109 138 104 133 104 126V108C104 101 109 96 116 96Z" stroke="#0F2F3D" stroke-width="5"/>
+  <path d="M120 82V102M130 82V102" stroke="#0F2F3D" stroke-width="5" stroke-linecap="round"/>
+  <text x="186" y="98" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Om Deshmukh</text>
+  <text x="186" y="139" fill="#DDECF1" font-family="Segoe UI, Arial, sans-serif" font-size="22">M.Tech CS Student | Codeforces Candidate Master | Backend + AI Systems</text>
+  <text x="88" y="207" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Building reliable systems with strong DSA fundamentals.</text>
+  <text x="88" y="252" fill="#CFE5EA" font-family="Segoe UI, Arial, sans-serif" font-size="23">Healthcare platforms, multilingual voice workflows, fintech reconciliation, and scalable APIs.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    <rect x="88" y="306" width="188" height="36" rx="18" fill="#FFFFFF" opacity="0.12"/>
+    <text x="108" y="330" fill="#FFFFFF">Codeforces 2086</text>
+    <rect x="292" y="306" width="178" height="36" rx="18" fill="#FFFFFF" opacity="0.12"/>
+    <text x="312" y="330" fill="#FFFFFF">LeetCode Knight</text>
+    <rect x="486" y="306" width="162" height="36" rx="18" fill="#FFFFFF" opacity="0.12"/>
+    <text x="506" y="330" fill="#FFFFFF">600+ DSA</text>
+  </g>
+</svg>
+
