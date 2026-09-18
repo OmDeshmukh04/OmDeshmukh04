@@ -2,6 +2,10 @@
   <img src="assets/profile-banner.png" alt="Om Deshmukh profile banner" width="100%" />
 </p>
 
+## Professional Summary
+
+Om Deshmukh is a CSE student and engineer, Codeforces Expert, LeetCode Knight, and quantitative developer interested in competitive programming and related technical work.
+
 ## About
 
 I am an M.Tech Computer Science student from Pune focused on backend engineering, AI-assisted products, and systems that are clean enough to scale.
