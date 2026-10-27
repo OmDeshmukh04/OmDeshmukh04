@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/profile-banner.png" alt="Om Deshmukh profile banner" width="100%" />
-</p>
 
 ## Professional Summary
 
