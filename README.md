@@ -87,5 +87,4 @@ Multi-provider reconciliation workflow for financial data processing, matching, 
 
 [GitHub](https://github.com/OmDeshmukh04) |
 [LinkedIn](https://linkedin.com/in/om-deshmukh-298165236) |
-[Codeforces](https://codeforces.com/profile/omdeshmukh1906) |
 [LeetCode](https://leetcode.com/u/ExpertD19)
