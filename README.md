@@ -61,10 +61,6 @@ Multi-provider reconciliation workflow for financial data processing, matching, 
 **Repo:** [github.com/OmDeshmukh04/PowerconReconciliation](https://github.com/OmDeshmukh04/PowerconReconciliation)
 
 ## Competitive Programming
-
-- Codeforces Candidate Master - peak rating 2086
-- Rank 3 / 31,000+ in Educational Round 178
-- Rank 11 in Codeforces Round 1033 Div. 2
 - LeetCode Knight with 600+ DSA problems solved
 
 ## Tech Stack
